@@ -1,0 +1,1 @@
+SELECT * FROM favorites ORDER BY added_at DESC;
