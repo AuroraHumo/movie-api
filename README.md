@@ -78,28 +78,6 @@ Returns all favorite movies for a given user.
 
 ---
 
-## 💾 What happens if I shut down my PC?
-
-- ✅ The **database and favorites are stored permanently** in your MySQL server files.
-- ❌ The **server (npm run dev)** is temporary and needs to be restarted.
-
-To resume development:
-
-```bash
-npm run dev
-```
-
-If MySQL doesn't auto-start:
-
-```bash
-# macOS
-brew services start mysql
-
-# Linux
-sudo service mysql start
-```
-
----
 
 ## 🧠 Author
 
