@@ -34,8 +34,6 @@ DB_PASSWORD=your_password_here
 DB_NAME=movie_explorer
 ```
 
-> You can also use `.env.example` as a reference.
-
 ---
 
 ### 3. Create Database and Table
@@ -77,7 +75,6 @@ Adds a movie to a user's favorites.
 Returns all favorite movies for a given user.
 
 ---
-
 
 ## 🧠 Author
 
